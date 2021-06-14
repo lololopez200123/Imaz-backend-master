@@ -1,3 +1,5 @@
+BACKEND
+
 El sitio está constituido de la siguiente manera:
 
 - El frontend está desarrollado en Vue2 utilizando pug como sistema de maquetado y scss como sistema de estilos, la lógica está implementada en javascript haciendo uso de la infraestructura de Vue. El panel de administración sigue la misma implementación pero utiliza Bulma como sistema de estilado (simil Bootstrap).
