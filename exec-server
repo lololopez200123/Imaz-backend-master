@@ -1,0 +1,6 @@
+#!/bin/bash
+
+source ./.env
+
+pm2 stop "imaz"
+pm2 start /var/www/express/bin/www --name "imaz"

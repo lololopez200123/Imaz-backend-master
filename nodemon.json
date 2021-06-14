@@ -1,0 +1,10 @@
+{
+  "env": {
+    "NODE_ENV": "development",
+    "BCF": "dbe1ef29d27b9ef56d7dab8db59394e9aee08dde",
+    "MAIL_PASS": "imaz1111",
+    "CLOUDINARY_CLOUD": "doackkg0a",
+    "CLOUDINARY_KEY": "972166257769159",
+    "CLOUDINARY_SECRET": "lvlAjt17XIKoW4ZvHnmws9as3CU"
+  }
+}
